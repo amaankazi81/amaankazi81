@@ -35,7 +35,7 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 ## 📂 **Projects**  
 
 ### 🏋️ Full Stack Gym Management System  
-**[https://github.com/amaankazi81/GYM-Management-System-Website](#)**  
+**[https://github.com/amaankazi81/GYM-Management-System-Website]**  
 - Developed with React, Node.js, and Firebase.  
 - Features include gym member and admin management, fee reminders, and diet plans.  
 
