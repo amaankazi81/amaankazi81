@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Amaan Kazi!
 
-🎓 **Computer Science Engineering Student (AI & ML Specialization)**  
+🎓 **Computer Science Engineering Student (AI & ML Specialization) at MH Saboo Siddik College of Engineering**  
 🔧 **Full Stack Developer | AI & Machine Learning Specialist**  
 
 Passionate about leveraging technology to solve real-world challenges and drive innovation. I specialize in building full-stack web applications and machine learning solutions. Welcome to my GitHub profile—feel free to explore my projects and repositories!
