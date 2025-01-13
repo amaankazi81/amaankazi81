@@ -1,6 +1,3 @@
-Based on your resume, here's a draft for your GitHub profile README file:
-
----
 
 # 👋 Hello, I'm Amaan Kazi!
 
