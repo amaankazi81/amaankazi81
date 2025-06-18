@@ -44,6 +44,12 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 - Built using React, Node.js, and Firebase.  
 - Secure admin dashboard for patient record management.
 
+### 🏃‍♂️ Action Recognition (LSTM + MediaPipe)
+**[https://github.com/amaankazi81/Action-Recognition-using-MediaPipe-Landmarks-and-LSTM]**
+- Recognizes TaiChi, JumpingJack, and Pushups from videos using landmarks.
+- Achieved 90%+ accuracy with LSTM on (30, 225) and (45, 225) input sequences.
+- Built using TensorFlow, OpenCV, and MediaPipe on UCF50 dataset.
+
 ### 💬 Real-Time Web Chat Application  
 **[https://github.com/amaankazi81/Real-Time-Web-Chat-Application]**  
 - Built a dynamic chat platform enabling seamless real-time messaging.  
