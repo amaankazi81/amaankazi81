@@ -75,7 +75,7 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 ## 📫 **Contact Me**  
 
 📧 **Email:** amaankazi10225@gmail.com  
-🌐 **Portfolio:** [https://amaankazi81.github.io/Portfolio/]  
+🌐 **Portfolio:** [https://portfolio-xi-six-bn51zfj1yt.vercel.app/]  
 🔗 **LinkedIn:** [www.linkedin.com/in/amaan-kazi-087a9228b]  
 💻 **GitHub:** [https://github.com/amaankazi81] 
 
