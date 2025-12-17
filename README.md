@@ -40,22 +40,34 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 - Features include gym member and admin management, fee reminders, and diet plans.
 
 ### 🏥 Full Stack Healthcare Management System  
-**(Health Record Management System)[https://github.com/amaankazi81/Healthcare-Management-System]**  
+**https://github.com/amaankazi81/Healthcare-Management-System**  
 - Built using React, Node.js, and Firebase.  
 - Secure admin dashboard for patient record management.
 
 ### 🏃‍♂️ Action Recognition (LSTM + MediaPipe)
-**[https://github.com/amaankazi81/Action-Recognition-using-MediaPipe-Landmarks-and-LSTM]**
+**https://github.com/amaankazi81/Action-Recognition-using-MediaPipe-Landmarks-and-LSTM**
 - Recognizes TaiChi, JumpingJack, and Pushups from videos using landmarks.
 - Achieved 90%+ accuracy with LSTM on (30, 225) and (45, 225) input sequences.
 - Built using TensorFlow, OpenCV, and MediaPipe on UCF50 dataset.
 
+### 🧠 AI-SQL Analytics Assistant
+**https://github.com/amaankazi81/AI-SQL-Analytics-Assistant**
+- Converts natural language questions into SQL queries using LangChain SQL Agent.
+- Enables safe, read-only analytics on MySQL databases with automatic schema understanding.
+- Built with Python, Streamlit, LangChain, SQLAlchemy, and LLMs (OpenAI / Gemini).
+
+### 📰 AI-Powered News Research Tool (Finance & Stock Market)
+**https://github.com/amaankazi81/AI-SQL-Analytics-Assistant**
+- Analyzes financial news articles and PDFs using a RAG (Retrieval-Augmented Generation) pipeline.
+- Performs semantic search with FAISS and HuggingFace embeddings for accurate, context-aware insights.
+- Built using Streamlit, LangChain (LCEL), Google Gemini, and FAISS for stock market analysis.
+
 ### 💬 Real-Time Web Chat Application  
-**[https://github.com/amaankazi81/Real-Time-Web-Chat-Application]**  
+**https://github.com/amaankazi81/Real-Time-Web-Chat-Application**  
 - Built a dynamic chat platform enabling seamless real-time messaging.  
 
 ### 🛒 Shopping Mall Management System  
-**[https://github.com/amaankazi81/Shopping-Mall-Management-System]**  
+**https://github.com/amaankazi81/Shopping-Mall-Management-System**  
 - Created using Java, Spring Boot, and MySQL.  
 - Efficiently manages shop data, customer orders, and inventory.  
 
