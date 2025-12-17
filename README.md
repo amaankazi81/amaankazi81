@@ -57,7 +57,7 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 - Built with Python, Streamlit, LangChain, SQLAlchemy, and LLMs (OpenAI / Gemini).
 
 ### 📰 AI-Powered News Research Tool (Finance & Stock Market)
-**https://github.com/amaankazi81/AI-SQL-Analytics-Assistant**
+**https://github.com/amaankazi81/AI-Powered-News-Research-Tool**
 - Analyzes financial news articles and PDFs using a RAG (Retrieval-Augmented Generation) pipeline.
 - Performs semantic search with FAISS and HuggingFace embeddings for accurate, context-aware insights.
 - Built using Streamlit, LangChain (LCEL), Google Gemini, and FAISS for stock market analysis.
