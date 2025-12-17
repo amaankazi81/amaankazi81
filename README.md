@@ -17,7 +17,12 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 
 ### Web Development  
 - React.js, Node.js, Express.js  
-- HTML, CSS, Bootstrap  
+- HTML, CSS, Bootstrap
+
+### AI / Machine Learning
+- Machine Learning, Deep Learning (CNN, LSTM)
+- Generative AI, LLMs (OpenAI, Google Gemini)
+- LangChain Agents, RAG Systems (FAISS, Embeddings)
 
 ### Frameworks & Tools  
 - Spring Boot  
