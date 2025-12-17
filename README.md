@@ -40,7 +40,7 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 - Features include gym member and admin management, fee reminders, and diet plans.
 
 ### 🏥 Full Stack Healthcare Management System  
-**[https://github.com/amaankazi81/Healthcare-Management-System]**  
+**(Health Record Management System)[https://github.com/amaankazi81/Healthcare-Management-System]**  
 - Built using React, Node.js, and Firebase.  
 - Secure admin dashboard for patient record management.
 
