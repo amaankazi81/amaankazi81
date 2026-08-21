@@ -11,9 +11,10 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 ## 🛠️ **Skills**
 
 ### Programming Languages  
+- Java
+- C#
 - JavaScript  
 - Python  
-- Java  
 
 ### Web Development  
 - React.js, Node.js, Express.js  
@@ -25,7 +26,8 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 - LangChain Agents, RAG Systems (FAISS, Embeddings)
 
 ### Frameworks & Tools  
-- Spring Boot  
+- Spring Boot
+- ASP .NET
 - Firebase  
 - MongoDB, MySQL  
 - Git, Canva, Figma  
@@ -38,6 +40,11 @@ Passionate about leveraging technology to solve real-world challenges and drive 
 ---
 
 ## 📂 **Projects**  
+
+## 🏥🤖 CareSync AI
+**https://github.com/amaankazi81/Care-Sync-AI**
+- CareSync AI is a full-stack healthcare management platform for managing patients, doctors, appointments, medical records, prescriptions, and healthcare operations with AI Support.
+- Built using Next.js, Spring Boot, ASP.NET Core, FastAPI and MySQL.
 
 ### 🏋️ Full Stack Gym Management System  
 **https://github.com/amaankazi81/GYM-Management-System-Website** 
